@@ -1,3 +1,5 @@
+#+title: Accessor_async
+#+UUID: 8818fedd-6c63-3327-080a-dad5142c0eb3
 
 The ~Accessor_async~ library extends ~Accessor_core~ with convenience functions
 for working with various types in ~Async~.
