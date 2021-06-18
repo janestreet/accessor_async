@@ -1,4 +1,4 @@
-open! Core_kernel
+open! Core
 open! Async_kernel
 open! Import
 include Accessor.Monad.S with type 'a t := 'a Deferred.t
